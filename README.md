@@ -74,3 +74,10 @@ When we introduce a new version of Natural Earth, you can tell by the version nu
 Natural Earth is maintained by Nathaneiel V. KELSO ([@nvkelso](https://github.com/nvkelso/)) and Tom Patterson.
 
 The project transitioned to Github in 2012. Versioned files are here to collaborate around. The frontend still lives at [NaturalEarthData.com](http://naturalearthdata.com).
+
+# Documentation
+
+For comprehensive system analysis and recommendations:
+- 📄 [Quick Reference Guide](QUICK_REFERENCE.md) - Quick start and common use cases (中文/English)
+- 📄 [System Analysis (English)](SYSTEM_ANALYSIS_EN.md) - Detailed technical analysis and recommendations
+- 📄 [系統分析（中文）](SYSTEM_ANALYSIS_ZH.md) - 詳細的技術分析和建議
